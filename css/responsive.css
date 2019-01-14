@@ -1,0 +1,21 @@
+@media only screen and ( max-width: 414px ) {
+    .navbar-default { float: none; margin-top: 10px;}
+    .navbar-default .navbar-toggle { border:0;}
+    .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover { background: none;}
+    .navbar-default .navbar-nav>li>a { text-align: center;}
+    #mobile_nav {display: block;}
+    .mobile_open_menu { display:block; }
+    .navbar-default { display: none;}
+    .mobile_open_menu { color: #fff; }
+    .caption h3 {  font-size:24px;  }
+    .home_one h3, .home_two h3, .home_three h4, .home_five h3 { font-size:20px; }
+    .home_two h3 { margin-top:15px;  }
+    .home_one p, .about_two p, .home_two p { font-size:13px; line-height:22px; }
+    .homethree_box h3 { font-size:16px; }
+    .home_five h4 { font-size:16px; }
+    .footer { text-align: center; }
+    .footer h3 { font-size:21px; margin-bottom:0; }
+    .footer3 p { margin:0; margin-top:10px;  } 
+    .footer4 a { margin-top:10px; }
+    .about_two p {margin-top: 10px; margin-bottom: 0; } 
+}
